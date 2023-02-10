@@ -7,6 +7,11 @@ button{
     height: 4vw;
     font-size: 2vw;
 }
+button:hover{
+    background-color: rgb(94, 79, 192);
+    color:rgb(3, 2, 2);
+
+}
 
 .DashBody{
 background-color: rgb(25, 26, 51);
